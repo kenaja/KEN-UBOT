@@ -23,7 +23,7 @@ Repo Yang Dibuat Oleh [ken](https://t.me/xgothboi) Dari beberapa Repo Yang Ada D
 
 
 ## DEPLOY TO HEROKU <img src="./resources/extras/Kenpurple.gif" width="40px">
-<p align="center"><a href="https://heroku.com/deploy?template=https://github.com/Kenaja/KEN-UBOT"> <img src="https://img.shields.io/badge/Deploy%20To%20Heroku-purple?style=flat&logo=heroku" width="250" height="38.60" /></a></p>
+<p align="center"><a href="https://heroku.com/deploy?template=https://github.com/kenaja/KEN-UBOT/tree/KEN-UBOT"> <img src="https://img.shields.io/badge/Deploy%20To%20Heroku-purple?style=flat&logo=heroku" width="250" height="38.60" /></a></p>
 
 
   <b>© Credits</b></summary>
